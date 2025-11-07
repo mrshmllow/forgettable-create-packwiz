@@ -58,11 +58,6 @@ hash = "a1e5a84f5ed75a81e875333433b1ec4239a8b76bf58de669cfcefca924932fab"
 metafile = true
 
 [[files]]
-file = "mods/create-sophisticated-backpacks-compat.pw.toml"
-hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true

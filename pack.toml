@@ -1,0 +1,13 @@
+name = "Forgettable Create"
+author = "marshmallow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d9b5d54b2900a5353eb37280f40c444711f791c421209ee74f82fd791336929"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.214"

@@ -55,6 +55,11 @@ hash = "ce8e8a52fcf5642ccfe5af600ce3faaadc4aff69e20b604283734bbdc7a24086"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true

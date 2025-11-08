@@ -152,6 +152,16 @@ hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "3f1f9125896bff9902e3d4f9587723bb550060e7979ca787f06a44d1acb09ae8"
+metafile = true
+
+[[files]]
 file = "mods/neoforge-carpet.pw.toml"
 hash = "7513ef48054b3d2d72aace3d3f39440c6b533ba518ea8d4cfaf1fb6d30dd9e7d"
 metafile = true
@@ -159,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]

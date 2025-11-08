@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "93c4e4b8fc03ab9f4c5f17e5cb25b9be5406482e98b73c49dde380c1fd3d5572"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "ca2bb1322ae9e4f538a35ed72d1c01495e0fcd4b837692a720804120eebe1b26"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "97d26eb70ca8e6e5a48c42c2c73281612192cbb962b0e58d37783708d46c7033"
 
@@ -227,4 +231,4 @@ hash = "f36f4e82e81110e5ade9964b09c08a3a38fa9fdf4696ced885f8dd101f0c9f10"
 
 [[files]]
 file = "servers.dat"
-hash = "7e2b5e861cfb58bea51beb48700ea0abdf3cd8a4ebd1585fda6ebc0300d52e84"
+hash = "003dd67a130e65f56f7fec2d9bcf3c8f76ce86305cc59b88003fafe4653bf69f"

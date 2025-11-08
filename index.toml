@@ -45,6 +45,11 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "c40af4fce7e6317fab8297ce3f60e18ffadd59b88726d57ab46f6e8aed0efd63"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
 metafile = true

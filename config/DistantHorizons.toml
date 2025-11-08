@@ -174,7 +174,7 @@ upsampleLowerDetailLodsToFillHoles = false
 [common.multiThreading]
 #
 # How many threads should be used by Distant Horizons?
-numberOfThreads = 5
+numberOfThreads = 2
 #
 # A value between 1.0 and 0.0 that represents the percentage 
 # of time each thread can run before going idle. 
@@ -259,7 +259,7 @@ showPoolInsufficientMemoryWarning = true
 # but may cause server/simulation lag. 
 # Note: unlike other modes this option DOES save generated chunks to 
 # Minecraft's region files.
-distantGeneratorMode = "FEATURES"
+distantGeneratorMode = "INTERNAL_SERVER"
 #
 # How should distant generator progress be displayed? 
 # 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "87a4bef0bc49ace2d46f6059df2428c3ceb0008b5dcea955d239ff73b874ae3b"
+hash = "a004493256ef90adbef55a1eb566ec7f3de1cddec32c47c671fae683fef25c06"
 
 [[files]]
 file = "config/bluemap/core.conf"

@@ -25,6 +25,10 @@ file = "config/emi.css"
 hash = "d78ad89a486b23def92bed4e3a529c1980a0f0f4893036732bdd5d299a61e460"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "dc92fe2e6154e7a9883eb62b4183f4415ac9131a043d250c211d2ce684e3f85b"
+
+[[files]]
 file = "config/neoforge-client.toml"
 hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
 

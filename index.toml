@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "ce8e8a52fcf5642ccfe5af600ce3faaadc4aff69e20b604283734bbdc7a24086"
+hash = "ffb32b95015187bb5fd6e4da021a2bc636bdabb29a6917c992c4344d9163e8fb"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3f1f9125896bff9902e3d4f9587723bb550060e7979ca787f06a44d1acb09ae8"
+hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
 metafile = true
 
 [[files]]

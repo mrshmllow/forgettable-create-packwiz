@@ -55,6 +55,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
 metafile = true
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
+hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
 metafile = true
 
 [[files]]
@@ -81,12 +86,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "c6b202693a6def0e9aa2c41d3b7cfbeec473e7c09b8e7754ca786029ff31a4d3"
+hash = "40ef901fad34e97d592aa27990328b3cfc3864fdac551ec654eee203fb084897"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5911c36695128b20ab3bbbf41adbab0b29f4dff7f6db1eed803a847568a6155c"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
 metafile = true
 
 [[files]]

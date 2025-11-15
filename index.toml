@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "4b5e748be78e4a84a8119c87a746b9198a0c93fff3b4bae3d599aa40ab1cb733"
+hash = "e8645cfbb5606f2bd02e8bdfa0a9e3dff5912f2216251b3100d82c37b950a999"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "635e0d0eba66fcc6eb94026dfa562742d5b6aa96b8f316d0ed1b1678049b54b0"
+hash = "cd5253e9dad852c7d78c50af74eb61c32a9748bddb9308a167609e46a715724e"
 metafile = true
 
 [[files]]

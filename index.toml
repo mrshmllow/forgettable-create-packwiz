@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "40ef901fad34e97d592aa27990328b3cfc3864fdac551ec654eee203fb084897"
+hash = "6a5638b1888c9c882ea5cd45bc93aab958a50fd302cb7e9af3c807a2b46c9497"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cd5253e9dad852c7d78c50af74eb61c32a9748bddb9308a167609e46a715724e"
+hash = "1c409471400cd68f5105d87fa1fdf2ae71c1ad00934a2a306abffad60d1bf86f"
 metafile = true
 
 [[files]]
